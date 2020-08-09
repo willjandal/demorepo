@@ -1,2 +1,3 @@
 feature 1
 modified for merging exercise
+added feature 3
